@@ -1,0 +1,104 @@
+commit 6aa666d235576d79f3cf2a3e17b53248fe7d9b61
+Author: shashidhar <shashidharbakam3@gmail.com>
+Date:   Sun Mar 19 14:25:11 2023 +0530
+
+    deleting file2.txt
+
+diff --git a/file1.txt b/file1.txt
+index 6269a6c..4e140da 100644
+--- a/file1.txt
++++ b/file1.txt
+@@ -1,2 +1,3 @@
+ shashidhar  cse
+-dominos rrr
+\ No newline at end of file
++dominos rrr
++yellow
+\ No newline at end of file
+diff --git a/file2.txt b/file2.txt
+deleted file mode 100644
+index 91cd173..0000000
+--- a/file2.txt
++++ /dev/null
+@@ -1 +0,0 @@
+-2025 job: software engineer
+\ No newline at end of file
+
+commit a6b91c56a04286a56713d0313939c013b3658794
+Author: shashidhar <shashidharbakam3@gmail.com>
+Date:   Sun Mar 19 14:14:30 2023 +0530
+
+    file2.txt is commited with year and job title
+
+diff --git a/file2.txt b/file2.txt
+new file mode 100644
+index 0000000..91cd173
+--- /dev/null
++++ b/file2.txt
+@@ -0,0 +1 @@
++2025 job: software engineer
+\ No newline at end of file
+
+commit aad93b9190e8c8843c67ef99ee0497a6cbb86b2d
+Author: shashidhar <shashidharbakam3@gmail.com>
+Date:   Sat Mar 18 20:54:59 2023 +0530
+
+    added favorite restaurant and movie
+
+diff --git a/file1.txt b/file1.txt
+index 620ede2..6269a6c 100644
+--- a/file1.txt
++++ b/file1.txt
+@@ -1 +1,2 @@
+-shashidhar  cse
+\ No newline at end of file
++shashidhar  cse
++dominos rrr
+\ No newline at end of file
+
+commit 861c1e5a1670e373120226a3cccce1fe8fd989bc
+Author: shashidhar <shashidharbakam3@gmail.com>
+Date:   Sat Mar 18 20:48:03 2023 +0530
+
+    now has my major
+
+diff --git a/file1.txt b/file1.txt
+index 89f70ea..620ede2 100644
+--- a/file1.txt
++++ b/file1.txt
+@@ -1 +1 @@
+-shashidhar bt21cse036
+\ No newline at end of file
++shashidhar  cse
+\ No newline at end of file
+
+commit 203e26a6376e93a0f1c2402afe4acdcfee498599
+Author: shashidhar <shashidharbakam3@gmail.com>
+Date:   Sat Mar 18 20:37:25 2023 +0530
+
+    commiting a new file with my name
+
+diff --git a/file1.txt b/file1.txt
+index 536f711..89f70ea 100644
+--- a/file1.txt
++++ b/file1.txt
+@@ -1 +1 @@
+-shashidharbt21cse036
+\ No newline at end of file
++shashidhar bt21cse036
+\ No newline at end of file
+
+commit 1bff53af8cee76623350d80eff923325374d55f9
+Author: shashidhar <shashidharbakam3@gmail.com>
+Date:   Fri Mar 10 23:47:40 2023 +0530
+
+    committing a new file with my name
+
+diff --git a/file1.txt b/file1.txt
+new file mode 100644
+index 0000000..536f711
+--- /dev/null
++++ b/file1.txt
+@@ -0,0 +1 @@
++shashidharbt21cse036
+\ No newline at end of file
